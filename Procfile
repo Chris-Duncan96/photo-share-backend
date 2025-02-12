@@ -1,1 +1,1 @@
-web: java -jar target/PhotoShare-1.0-SNAPSHOT.jars
+web: java -jar target/PhotoShare-1.0-SNAPSHOT.jar
