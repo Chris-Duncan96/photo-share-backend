@@ -4,6 +4,7 @@ Made as an exercise in an afternoon, to be seen with the Photo Share Frontend re
 
 ## Requirements
 java 21+
+
 maven 3.8+
 
 ## Running
